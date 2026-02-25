@@ -6,7 +6,14 @@ En esta bitácora vamos a consolidar nuestro aprendizaje práctico desarrollado 
 
 ## **PRIMER CORTE** 
 
-SEMANA UNO
+### SEMANA UNO
+APUNTES EXTRA
+
+- GitHub Códigos de Ayuda
+
+- Información EXTRA
+
+
 
 SEMANA DOS
 
