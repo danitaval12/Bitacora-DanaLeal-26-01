@@ -31,6 +31,10 @@ Realizamos la continuación del código presentado en clase, el cual le hacia fa
 
 *1. Dada una lista de usuarios y utilizando los mismos atributos anteriores, filtrar las personas mayores de edad y obtener sus nombres*
 
+<img width="1917" height="1019" alt="image" src="https://github.com/user-attachments/assets/daf660f4-7ab2-4f63-af47-84633bb96f80" />
+
+El único cambio que realizamos fue agregar un nuevo filter() que nos ayude a mirar el tema de la edad y agregamos nuevos usuarios en el EJERCICIO TRES, ya que, solo era lo único que faltaba para cumplir este ejercicio. 
+
 
 *2. Dada una lista de transacciones bancarias representadas por objetos.*
 
