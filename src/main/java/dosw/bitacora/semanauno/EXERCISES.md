@@ -15,8 +15,16 @@ Realizamos la continuación del código presentado en clase, el cual le hacia fa
 
 *2. Dada una lista de palabras, se requiere: Filtrar las palabras que tengan mas de 4 caracteres, convertirlas en Mayusculas, ordenarlas alfabeticamente y obtener la cantidad total de palabras resultantes*
 
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/038dae66-45d4-461f-9a04-1c3cf8dce2f7" />
+
+Realizamos la continuación del código presentado en clase, el cual le hacia falta agregar la lista del principio donde contenia las palabras y la impresión de la lista que saldría y su cantidad total, para que nos mostrara las palabras con más de 4 caracteres y se impriman en mayusculas.
+
 
 *3. Dada una lista de usuarios, filtrar únicamente los usuarios activos, obten una lista con los nombres en mayusculas y ordena alfabeticamente el resultado, el objeto usuario cuenta con los atributos: id, name, age, active.*
+
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/19b6b86e-12d0-407f-b9f1-eb02ffa5b93a" />
+
+Realizamos la continuación del código presentado en clase, el cual le hacia falta agregar la clase de User (ya que es un modelo de datos) y un apartado donde tengamos la información de los usuarios. 
 
 
 **| EN CASA  |**
@@ -36,6 +44,14 @@ Realizamos la continuación del código presentado en clase, el cual le hacia fa
 <img width="882" height="243" alt="image" src="https://github.com/user-attachments/assets/b8bddb85-7d00-41c9-a239-d9896f1029a3" />
 
 1. ¿Qué entendí mal antes?
+
+Antes sentía un pequeño enredo con el tema de Lambdas y Streams, ya que, al realizar los códigos no entendía muy bien el orden de cada código como debía ser. 
+
 2. ¿Qué entiendo ahora?
+
+Gracias al refuerzo de teoría y los ejercicios que se realizaron más en calma, pude entender mejor como es el orden de como se debe entregar un ejercicio tipo Streams, además, de aprender mejor su funcionamiento con las estructuras de datos ya explicadas en anteriores materias. Además, de un mejor orden en GitHub.
+
 3. ¿Qué me falta reforzar?
+
+Me falta reforzar un poco más en tema código, ya que, cometo ciertos errores pequeños al realizar el código. Y volver a repasar un poco más a fondo las estructuras, ya que, no son dificiles pero con el tiempo se pueden ir olvidando detalles. 
 
