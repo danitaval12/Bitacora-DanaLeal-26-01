@@ -43,6 +43,10 @@ El único cambio que realizamos fue agregar un nuevo filter() que nos ayude a mi
   *- Verificar si existe al menos una transacción no aprobada*
   *- Retornar TRUE o FALSE indicando si el lote de transacciones es válido.*
 
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/f4d190f6-d333-4f7d-b5f0-85cff5bcd870" />
+
+Se usaron Streams con Lambdas para evaluar un conjunto de transacciones y determinar si el lote completo es válido según su estado de aprobación.
+
 ---
 
 <img width="882" height="243" alt="image" src="https://github.com/user-attachments/assets/b8bddb85-7d00-41c9-a239-d9896f1029a3" />
