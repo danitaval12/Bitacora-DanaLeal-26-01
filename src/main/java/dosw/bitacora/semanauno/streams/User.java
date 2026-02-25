@@ -17,6 +17,10 @@ public class User {
         return name;
     }
 
+    public int getAge() {
+        return age;
+    }
+
     public boolean isActive() {
         return active;
     }
