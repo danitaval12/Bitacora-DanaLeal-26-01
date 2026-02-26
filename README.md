@@ -10,6 +10,7 @@ En esta bitácora vamos a consolidar nuestro aprendizaje práctico desarrollado 
 APUNTES EXTRA
 
 - GitHub Códigos de Ayuda
+<img width="1160" height="1280" alt="image" src="https://github.com/user-attachments/assets/8099f803-369e-4094-ab63-bc0d11e203f4" />
 
 - Información EXTRA
 
