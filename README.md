@@ -21,5 +21,8 @@ SEMANA DOS
 SEMANA TRES
 
 SEMANA CUATRO
+EJEMPLO PARA ENTENDER MEJOR
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f81a3e51-db35-42cf-b6ef-6d145810ef3a" />
+
 
 SEMANA CINCO
