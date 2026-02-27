@@ -1,0 +1,8 @@
+package dosw.bitacora.SemanaTres.patrones.creacionales.factory;
+
+public class PayPalPayment implements Payment{
+    @Override
+    public void processPayment(double amount) {
+        System.out.println("Pago con PAYPAL por $" + amount);
+    }
+}
