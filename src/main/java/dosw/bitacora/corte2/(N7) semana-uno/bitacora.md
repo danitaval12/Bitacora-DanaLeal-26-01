@@ -17,6 +17,13 @@ Las subtareas incluyen actividades como:
 
 El tablero permite realizar seguimiento del progreso semanal mediante las columnas **To Do, In Progress y Done**.
 
+Además en el tema de StoryPoints los acomode de la siguiente manera: 
+1. -> Muy Sencillo
+2. -> Sencillo
+3. -> Medio
+5. -> Complejo
+8. -> Muy Complejo
+
 Link del tablero de trabajo:
 https://nana-works.atlassian.net/jira/software/projects/DLPSS/summary?atlOrigin=eyJpIjoiOTU4YmIyZGM1YjM5NGNiYTkzNDE1NDMyYmQyZjQ1YmYiLCJwIjoiaiJ9
 
@@ -25,7 +32,7 @@ https://nana-works.atlassian.net/jira/software/projects/DLPSS/summary?atlOrigin=
 ### Implementar Ejercicios en Java con Streams
 
 Durante esta actividad se desarrolló un sistema simple de análisis académico utilizando programación funcional en Java. A partir de un modelo de datos compuesto por las clases `Student` y `Grade`, se implementaron diferentes operaciones para analizar el rendimiento de los estudiantes y sus calificaciones.
-La solución fue desarrollada utilizando la API de **Streams de Java**, permitiendo procesar colecciones de datos mediante operaciones como filtrado, transformación, agrupamiento y cálculo de promedios, cumpliendo además con la restricción de no utilizar ciclos tradicionales como `for` o `while`.
+La solución fue desarrollada utilizando la API de **Streams de Java**, permitiendo procesar colecciones de datos mediante operaciones como filtrado, transformación, agrupamiento y cálculo de promedios, cumpliendo además con la restricción de no utilizar ciclos tradicionales como `for` o `while`. Además, por lo que explicamos en clase organizamos tipo MVC.
 
 #### Propuesta adicional 11
 
