@@ -1,4 +1,5 @@
-# | Bitácora Corte 2 – Semana 1 (N7) |
+# | Bitácora Corte 2 – Semana 1 (N7) | 
+#### (DESDE 2 MARZO HASTA EL 8 MARZO)
 
 ## Actividades realizadas
 
@@ -85,16 +86,13 @@ Además, el tiempo me jugo en contra, ya que, necesite repasar el tema de los ST
 ### JIRA
 
 - TABLERO
-
-![imgN7(3).png](../../../../../../../docs/image/imgN7%283%29.png)
+![imgN7(3).png](../../../../../../../docs/image/SemanaN7/imgN7%283%29.png)
 
 - BACKLOG
-
-![imgN7(1).png](../../../../../../../docs/image/imgN7%281%29.png)
+![imgN7(1).png](../../../../../../../docs/image/SemanaN7/imgN7%281%29.png)
 
 - TAREAS CREADAS
-
-![imgN7(2).png](../../../../../../../docs/image/imgN7%282%29.png)
+![imgN7(2).png](../../../../../../../docs/image/SemanaN7/imgN7%282%29.png)
 
 ### Implementar ejercicios en Java con Streams
 
