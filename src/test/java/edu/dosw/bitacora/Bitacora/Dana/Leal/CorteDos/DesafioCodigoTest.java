@@ -1,7 +1,6 @@
-package edu.dosw.bitacora.Bitacora.Dana.Leal;
+package edu.dosw.bitacora.Bitacora.Dana.Leal.CorteDos;
 
 import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
 import dosw.CorteDosCode.desafioCodigo.model.Student;
 import dosw.CorteDosCode.desafioCodigo.model.Grade;
 import dosw.CorteDosCode.desafioCodigo.service.Service;
